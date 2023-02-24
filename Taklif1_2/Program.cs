@@ -13,6 +13,7 @@
                     arr[i, j] = Int32.Parse(Console.ReadLine());
                 }
             }
+
         }
     }
 }
