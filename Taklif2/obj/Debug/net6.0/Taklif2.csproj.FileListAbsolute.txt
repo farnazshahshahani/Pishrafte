@@ -1,0 +1,15 @@
+D:\Uni\ProPrograming\Practices\Taklif2\bin\Debug\net6.0\Taklif2.exe
+D:\Uni\ProPrograming\Practices\Taklif2\bin\Debug\net6.0\Taklif2.deps.json
+D:\Uni\ProPrograming\Practices\Taklif2\bin\Debug\net6.0\Taklif2.runtimeconfig.json
+D:\Uni\ProPrograming\Practices\Taklif2\bin\Debug\net6.0\Taklif2.dll
+D:\Uni\ProPrograming\Practices\Taklif2\bin\Debug\net6.0\Taklif2.pdb
+D:\Uni\ProPrograming\Practices\Taklif2\obj\Debug\net6.0\Taklif2.csproj.AssemblyReference.cache
+D:\Uni\ProPrograming\Practices\Taklif2\obj\Debug\net6.0\Taklif2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\ProPrograming\Practices\Taklif2\obj\Debug\net6.0\Taklif2.AssemblyInfoInputs.cache
+D:\Uni\ProPrograming\Practices\Taklif2\obj\Debug\net6.0\Taklif2.AssemblyInfo.cs
+D:\Uni\ProPrograming\Practices\Taklif2\obj\Debug\net6.0\Taklif2.csproj.CoreCompileInputs.cache
+D:\Uni\ProPrograming\Practices\Taklif2\obj\Debug\net6.0\Taklif2.dll
+D:\Uni\ProPrograming\Practices\Taklif2\obj\Debug\net6.0\refint\Taklif2.dll
+D:\Uni\ProPrograming\Practices\Taklif2\obj\Debug\net6.0\Taklif2.pdb
+D:\Uni\ProPrograming\Practices\Taklif2\obj\Debug\net6.0\Taklif2.genruntimeconfig.cache
+D:\Uni\ProPrograming\Practices\Taklif2\obj\Debug\net6.0\ref\Taklif2.dll
